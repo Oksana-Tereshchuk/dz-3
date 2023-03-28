@@ -1,0 +1,17 @@
+{
+    "level": "student",
+    "personal_info":{
+            "name": "Dave",
+            "surname": "Baddy \"Wende\"",
+            "age": 18,
+			"education": {
+                "university": "Lviv National",
+                "course": "3"
+            }
+        },
+    "spouse": null,
+    "favoriteSports": [
+        "Football",
+        "Cricket"
+    ]
+}
