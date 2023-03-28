@@ -1,4 +1,3 @@
-root: 
     level: student
     personal_info: 
       - 
@@ -9,7 +8,7 @@ root:
         education: 
           university: Lviv National
           course: 3
-    spouse: {}
+    spouse: null
     favoriteSports: 
       - Football
       - Cricket
